@@ -13,7 +13,7 @@ for i in range(TAM_VETOR):
     else: 
         numeros.append(numero)
 
-os.system("clear")
+os.system("clear") 
 
 for i, in enumerate(numeros):
     print(f"{1+i}º número: ") 
